@@ -9,7 +9,7 @@ The source code is **100% Dart**, and everything resides in the [/lib](https://g
 
 ### Show some :heart: and star the repo to support the project
 
-[![GitHub stars](https://img.shields.io/github/stars/iampawan/BreathingFlutter.svg?style=social&label=Star)](https://github.com/iampawan/BreathingFlutter) [![GitHub forks](https://img.shields.io/github/forks/iampawan/MediumClapFlutter.svg?style=social&label=Fork)](https://github.com/iampawan/BreathingFlutter/fork) [![GitHub watchers](https://img.shields.io/github/watchers/iampawan/BreathingFlutter.svg?style=social&label=Watch)](https://github.com/iampawan/BreathingFlutter) [![GitHub followers](https://img.shields.io/github/followers/iampawan.svg?style=social&label=Follow)](https://github.com/iampawan/BreathingFlutter)  
+[![GitHub stars](https://img.shields.io/github/stars/iampawan/BreathingFlutter.svg?style=social&label=Star)](https://github.com/iampawan/BreathingFlutter) [![GitHub forks](https://img.shields.io/github/forks/iampawan/BreathingFlutter.svg?style=social&label=Fork)](https://github.com/iampawan/BreathingFlutter/fork) [![GitHub watchers](https://img.shields.io/github/watchers/iampawan/BreathingFlutter.svg?style=social&label=Watch)](https://github.com/iampawan/BreathingFlutter) [![GitHub followers](https://img.shields.io/github/followers/iampawan.svg?style=social&label=Follow)](https://github.com/iampawan/BreathingFlutter)  
 [![Twitter Follow](https://img.shields.io/twitter/follow/imthepk.svg?style=social)](https://twitter.com/imthepk)
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/Apache-2.0)
@@ -22,7 +22,7 @@ The source code is **100% Dart**, and everything resides in the [/lib](https://g
 
 [Let's Flutter](https://www.facebook.com/groups/425920117856409/)
 
-<img height="500px"  src="https://gfycat.com/LameFlickeringBison"/>
+<img height="500px"  src="https://thumbs.gfycat.com/LameFlickeringBison-size_restricted.gif"/>
 
 ## 💻 Installation
 In the `dependencies:` section of your `pubspec.yaml`, add the following line:
